@@ -1,0 +1,214 @@
+[
+  {
+    "name": "spiral",
+    "bullets": [
+      {
+        "type": "small",
+        "angle": 0,
+        "offset": {
+          "x": 0,
+          "y": 0
+        },
+        "delay": 0
+      },
+      {
+        "type": "small",
+        "angle": 45,
+        "offset": {
+          "x": 0,
+          "y": 0
+        },
+        "delay": 50
+      },
+      {
+        "type": "small",
+        "angle": 90,
+        "offset": {
+          "x": 0,
+          "y": 0
+        },
+        "delay": 100
+      },
+      {
+        "type": "small",
+        "angle": 135,
+        "offset": {
+          "x": 0,
+          "y": 0
+        },
+        "delay": 150
+      },
+      {
+        "type": "small",
+        "angle": 180,
+        "offset": {
+          "x": 0,
+          "y": 0
+        },
+        "delay": 200
+      },
+      {
+        "type": "small",
+        "angle": 225,
+        "offset": {
+          "x": 0,
+          "y": 0
+        },
+        "delay": 250
+      },
+      {
+        "type": "small",
+        "angle": 270,
+        "offset": {
+          "x": 0,
+          "y": 0
+        },
+        "delay": 300
+      },
+      {
+        "type": "small",
+        "angle": 315,
+        "offset": {
+          "x": 0,
+          "y": 0
+        },
+        "delay": 350
+      }
+    ],
+    "repetitions": 3,
+    "repetitionDelay": 0,
+    "relativeToPlayer": false
+  },
+  {
+    "name": "cross",
+    "bullets": [
+      {
+        "type": "medium",
+        "angle": 0,
+        "offset": {
+          "x": 20,
+          "y": 0
+        },
+        "delay": 0
+      },
+      {
+        "type": "medium",
+        "angle": 90,
+        "offset": {
+          "x": 0,
+          "y": 20
+        },
+        "delay": 0
+      },
+      {
+        "type": "medium",
+        "angle": 180,
+        "offset": {
+          "x": -20,
+          "y": 0
+        },
+        "delay": 0
+      },
+      {
+        "type": "medium",
+        "angle": 270,
+        "offset": {
+          "x": 0,
+          "y": -20
+        },
+        "delay": 0
+      }
+    ],
+    "repetitions": 10,
+    "repetitionDelay": 50,
+    "relativeToPlayer": false
+  },
+  {
+    "name": "star",
+    "bullets": [
+      {
+        "type": "large",
+        "angle": 0,
+        "offset": {
+          "x": 30,
+          "y": 0
+        },
+        "delay": 0
+      },
+      {
+        "type": "large",
+        "angle": 72,
+        "offset": {
+          "x": 9.27,
+          "y": 28.53
+        },
+        "delay": 100
+      },
+      {
+        "type": "large",
+        "angle": 144,
+        "offset": {
+          "x": -24.27,
+          "y": 17.63
+        },
+        "delay": 200
+      },
+      {
+        "type": "large",
+        "angle": 216,
+        "offset": {
+          "x": -24.27,
+          "y": -17.63
+        },
+        "delay": 300
+      },
+      {
+        "type": "large",
+        "angle": 288,
+        "offset": {
+          "x": 9.27,
+          "y": -28.53
+        },
+        "delay": 400
+      }
+    ],
+    "repetitions": 1,
+    "repetitionDelay": 0,
+    "relativeToPlayer": false
+  },
+  {
+    "name": "tripleShot",
+    "bullets": [
+      {
+        "type": "small",
+        "angle": 0,
+        "offset": {
+          "x": 0,
+          "y": 0
+        },
+        "delay": 0
+      },
+      {
+        "type": "small",
+        "angle": 15,
+        "offset": {
+          "x": 0,
+          "y": 0
+        },
+        "delay": 0
+      },
+      {
+        "type": "small",
+        "angle": -15,
+        "offset": {
+          "x": 0,
+          "y": 0
+        },
+        "delay": 0
+      }
+    ],
+    "repetitions": 5,
+    "repetitionDelay": 200,
+    "relativeToPlayer": true
+  }
+]
