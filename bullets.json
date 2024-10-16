@@ -1,0 +1,26 @@
+[
+  {
+    "name": "small",
+    "color": "0xFFFFFF",
+    "shape": "circle",
+    "size": 5,
+    "damage": 1,
+    "speed": 3
+  },
+  {
+    "name": "medium",
+    "color": "0xFFFFFF",
+    "shape": "square",
+    "size": 8,
+    "damage": 2,
+    "speed": 2
+  },
+  {
+    "name": "large",
+    "color": "0xFFFFFF",
+    "shape": "triangle",
+    "size": 12,
+    "damage": 3,
+    "speed": 1
+  }
+]
