@@ -174,7 +174,7 @@
     ],
     "repetitions": 1,
     "repetitionDelay": 0,
-    "relativeToPlayer": false
+    "relativeToPlayer": true
   },
   {
     "name": "tripleShot",
@@ -210,5 +210,85 @@
     "repetitions": 5,
     "repetitionDelay": 200,
     "relativeToPlayer": true
+  },
+  {
+    "name": "circle",
+    "bullets": [
+      {
+        "type": "medium",
+        "angle": 0,
+        "offset": {
+          "x": 0,
+          "y": 0
+        },
+        "delay": 0
+      },
+      {
+        "type": "medium",
+        "angle": 45,
+        "offset": {
+          "x": 0,
+          "y": 0
+        },
+        "delay": 0
+      },
+      {
+        "type": "medium",
+        "angle": 90,
+        "offset": {
+          "x": 0,
+          "y": 0
+        },
+        "delay": 0
+      },
+      {
+        "type": "medium",
+        "angle": 135,
+        "offset": {
+          "x": 0,
+          "y": 0
+        },
+        "delay": 0
+      },
+      {
+        "type": "medium",
+        "angle": 180,
+        "offset": {
+          "x": 0,
+          "y": 0
+        },
+        "delay": 0
+      },
+      {
+        "type": "medium",
+        "angle": 225,
+        "offset": {
+          "x": 0,
+          "y": 0
+        },
+        "delay": 0
+      },
+      {
+        "type": "medium",
+        "angle": 270,
+        "offset": {
+          "x": 0,
+          "y": 0
+        },
+        "delay": 0
+      },
+      {
+        "type": "medium",
+        "angle": 315,
+        "offset": {
+          "x": 0,
+          "y": 0
+        },
+        "delay": 0
+      }
+    ],
+    "repetitions": 0,
+    "repetitionDelay": 0,
+    "relativeToPlayer": false
   }
 ]
