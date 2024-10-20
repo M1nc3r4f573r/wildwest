@@ -1,0 +1,72 @@
+{
+  "0xFF0000": {
+  	"color": "FF0000",
+    "paragraphs": [
+      "Red: Determination",
+      "Active Ability: Rally",
+      "Increases all bullet damage by 50% for 10 seconds. Cooldown: 20 seconds.",
+      "Passive Ability: Undying",
+      "Grants an extra life, reviving the player with 100% HP once upon death."
+    ]
+  },
+  "0xFFA500": {
+  	"color": "0xFFA500",
+    "paragraphs": [
+      "Orange: Bravery",
+      "Active Ability: Dodge",
+      "Gain the ability to dodge by pressing **X**, defaults to upwards. becoming invulnerable while dodging. Cooldown: 0.5 seconds.",
+      "Passive Ability: Brave Shots",
+      "Increase atttack damage the closer you are to the boss, up to 100%."
+    ]
+  },
+  "0x00FF00": {
+  	"color": "0x00FF00",
+    "paragraphs": [
+      "Green: Kindness",
+      "Active Ability: Heal",
+      "Heal 50% of max HP. Cooldown: 30 seconds.",
+      "Passive Ability: Passive Heal",
+      "Regenerate 5% of max HP every 15 seconds."
+    ]
+  },
+  "0x00FFFF": {
+  	"color": "0x00FFFF",
+    "paragraphs": [
+      "cyan: Patience",
+      "Active Ability: The World! Stop before me!",
+      "Slow time by 50% for a duration of 6 seconds. Cooldown: 20 seconds.",
+      "Passive Ability: Patient Shooter",
+      "For every 0.5 seconds the player doesn’t fire, the next shot deals an additional 2 damage, up to 9."
+    ]
+  },
+  "0x0000FF": {
+  	"color": "0x8080FF",
+    "paragraphs": [
+      "Blue: Integrity",
+      "Active Ability: Thou shall not pass",
+      "Reflect 5 closest incoming projectiles, sending them back at the boss with double damage. Cooldown: 6 seconds.",
+      "Passive Ability: Unyielding Spirit",
+      "Gain one percent of damage reduction based on every percent of missing HP, up to 75%."
+    ]
+  },
+  "0x800080": {
+  	"color": "0xFF80FF",
+    "paragraphs": [
+      "Purple: Perseverance",
+      "Active Ability: Unbreakable Shield",
+      "Gain an unbreakable shield that absorbs all damage for 3 seconds. Cooldown: 15 seconds.",
+      "Passive Ability: Unbreakable",
+      "Gain 100% more invulnerability time."
+    ]
+  },
+  "0xFFFF00": {
+  	"color": "0xFFFF00",
+    "paragraphs": [
+      "Yellow: Justice",
+      "Active Ability: Final Judgement",
+      "Fire a massive shot that deals bonus damage based on how much health the boss has lost. For each percent of the boss’s health missing, the shot deals 3% more damage. Cooldown: 8 seconds.",
+      "Passive Ability: Retribution",
+      "For every 1% of health the player loses, the next shot deals 1 additional damage, up to 100. The bonus is consumed after firing."
+    ]
+  }
+}
