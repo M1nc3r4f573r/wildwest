@@ -18,7 +18,7 @@
           "x": 0,
           "y": 0
         },
-        "delay": 50
+        "delay": 100
       },
       {
         "type": "meidum",
@@ -27,7 +27,7 @@
           "x": 0,
           "y": 0
         },
-        "delay": 100
+        "delay": 200
       },
       {
         "type": "meidum",
@@ -36,7 +36,7 @@
           "x": 0,
           "y": 0
         },
-        "delay": 150
+        "delay": 300
       },
       {
         "type": "meidum",
@@ -45,7 +45,7 @@
           "x": 0,
           "y": 0
         },
-        "delay": 200
+        "delay": 400
       },
       {
         "type": "meidum",
@@ -54,7 +54,7 @@
           "x": 0,
           "y": 0
         },
-        "delay": 250
+        "delay": 500
       },
       {
         "type": "meidum",
@@ -63,7 +63,7 @@
           "x": 0,
           "y": 0
         },
-        "delay": 300
+        "delay": 600
       },
       {
         "type": "meidum",
@@ -72,10 +72,10 @@
           "x": 0,
           "y": 0
         },
-        "delay": 350
+        "delay": 700
       }
     ],
-    "repetitions": 3,
+    "repetitions": 1,
     "repetitionDelay": 0,
     "relativeToPlayer": false
   },
