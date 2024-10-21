@@ -80,6 +80,158 @@
     "relativeToPlayer": false
   },
   {
+    "name": "dense_spiral",
+    "bullets": [
+      {
+        "type": "small",
+        "angle": 0,
+        "offset": {
+          "x": 0,
+          "y": 0
+        },
+        "delay": 0
+      },
+      {
+        "type": "small",
+        "angle": 22.5,
+        "offset": {
+          "x": 0,
+          "y": 0
+        },
+        "delay": 25
+      },
+      {
+        "type": "small",
+        "angle": 45,
+        "offset": {
+          "x": 0,
+          "y": 0
+        },
+        "delay": 50
+      },
+      {
+        "type": "small",
+        "angle": 67.5,
+        "offset": {
+          "x": 0,
+          "y": 0
+        },
+        "delay": 75
+      },
+      {
+        "type": "small",
+        "angle": 90,
+        "offset": {
+          "x": 0,
+          "y": 0
+        },
+        "delay": 100
+      },
+      {
+        "type": "small",
+        "angle": 112.5,
+        "offset": {
+          "x": 0,
+          "y": 0
+        },
+        "delay": 125
+      },
+      {
+        "type": "small",
+        "angle": 135,
+        "offset": {
+          "x": 0,
+          "y": 0
+        },
+        "delay": 150
+      },
+      {
+        "type": "small",
+        "angle": 157.5,
+        "offset": {
+          "x": 0,
+          "y": 0
+        },
+        "delay": 175
+      },
+      {
+        "type": "small",
+        "angle": 180,
+        "offset": {
+          "x": 0,
+          "y": 0
+        },
+        "delay": 200
+      },
+      {
+        "type": "small",
+        "angle": 202.5,
+        "offset": {
+          "x": 0,
+          "y": 0
+        },
+        "delay": 225
+      },
+      {
+        "type": "small",
+        "angle": 225,
+        "offset": {
+          "x": 0,
+          "y": 0
+        },
+        "delay": 250
+      },
+      {
+        "type": "small",
+        "angle": 247.5,
+        "offset": {
+          "x": 0,
+          "y": 0
+        },
+        "delay": 275
+      },
+      {
+        "type": "small",
+        "angle": 270,
+        "offset": {
+          "x": 0,
+          "y": 0
+        },
+        "delay": 300
+      },
+      {
+        "type": "small",
+        "angle": 292.5,
+        "offset": {
+          "x": 0,
+          "y": 0
+        },
+        "delay": 325
+      },
+      {
+        "type": "small",
+        "angle": 315,
+        "offset": {
+          "x": 0,
+          "y": 0
+        },
+        "delay": 350
+      },
+      {
+        "type": "small",
+        "angle": 337.5,
+        "offset": {
+          "x": 0,
+          "y": 0
+        },
+        "delay": 375
+      }
+    ],
+    "repetitions": 3,
+    "repetitionDelay": 0,
+    "relativeToPlayer": false
+  },
+  {
     "name": "cross",
     "bullets": [
       {
