@@ -3,7 +3,7 @@
     "name": "spiral",
     "bullets": [
       {
-        "type": "small",
+        "type": "meidum",
         "angle": 0,
         "offset": {
           "x": 0,
@@ -12,7 +12,7 @@
         "delay": 0
       },
       {
-        "type": "small",
+        "type": "meidum",
         "angle": 45,
         "offset": {
           "x": 0,
@@ -21,7 +21,7 @@
         "delay": 50
       },
       {
-        "type": "small",
+        "type": "meidum",
         "angle": 90,
         "offset": {
           "x": 0,
@@ -30,7 +30,7 @@
         "delay": 100
       },
       {
-        "type": "small",
+        "type": "meidum",
         "angle": 135,
         "offset": {
           "x": 0,
@@ -39,7 +39,7 @@
         "delay": 150
       },
       {
-        "type": "small",
+        "type": "meidum",
         "angle": 180,
         "offset": {
           "x": 0,
@@ -48,7 +48,7 @@
         "delay": 200
       },
       {
-        "type": "small",
+        "type": "meidum",
         "angle": 225,
         "offset": {
           "x": 0,
@@ -57,7 +57,7 @@
         "delay": 250
       },
       {
-        "type": "small",
+        "type": "meidum",
         "angle": 270,
         "offset": {
           "x": 0,
@@ -66,7 +66,7 @@
         "delay": 300
       },
       {
-        "type": "small",
+        "type": "meidum",
         "angle": 315,
         "offset": {
           "x": 0,
