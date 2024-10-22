@@ -4,11 +4,11 @@ Use arrow keys to move around or select items.
 Use the Z key to interact with buttons and confirm selections.
 Use the X key to return to upper level.
 
-In battle:
+In Battle:
 
-Destroy all enemies without staying alive to win.
+Destroy all enemies while staying alive to win.
 
-Use arrow keys to move around.
+Use the arrow keys to move around.
 Hold or tap the Z key to fire bullets.
 
 Use the 1,2,3 keys to switch soul color for different abilities. There is a 1 second cooldown in doing so.
