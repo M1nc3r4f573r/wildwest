@@ -1,0 +1,11 @@
+In UI:
+Use arrow keys to move around or select items.
+Use the Z key to interact with buttons and confirm selections.
+Use the X key to return to upper level.
+In battle:
+Use arrow keys to move around.
+Hold or tap the Z key to fire a bullet.
+Use the X key to use each color's special ability.
+Use the 1,2,3 keys to switch soul color for different abilities. There is a 1 second cooldown in doing so.
+Each color also has a passive ability that is active if it is in one of the 3 selected colors.
+Destroy all enemies to win.
